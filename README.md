@@ -141,6 +141,17 @@ This repository showcases system design and workflow.
 Core implementation details and advanced logic are not publicly exposed.
 
 ---
+## 🚀 Hire Me
+
+Looking for a complete ML solution?
+
+I can help you with:
+- Data preprocessing pipelines
+- Model training & optimization
+- Prediction systems
+- End-to-end ML workflows
+
+📩 Feel free to reach out for freelance projects.
 
 ## 📬 Contact
 
