@@ -155,7 +155,11 @@ I can help you with:
 
 ## 📬 Contact
 
-Available for freelance machine learning projects.
+## 📬 Contact
+
+Available for freelance ML projects and end-to-end system development.
+
+Let’s build something impactful.
 
 ---
 
