@@ -107,16 +107,7 @@ Versioned Storage
 
 ![UI](screenshots/dashboard.png)
 
----
 
-## 🎥 Demo
-
-## 🎥 Demo
-
-Watch full demo here:  
-https://
-
----
 
 ## ⚙️ Tech Stack
 
@@ -156,9 +147,9 @@ I can help you with:
 
 📩 Feel free to reach out for freelance projects.
 
-## 📬 Contact
 
 ## 📬 Contact
+mehreenghazanfar26@gmail.com
 
 Available for freelance ML projects and end-to-end system development.
 
